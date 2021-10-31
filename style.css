@@ -1,0 +1,42 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.text__paragraph {
+  padding: 3rem 0 3rem 0;
+  font-weight: 100;
+}
+.footer {
+  text-align: center;
+  margin-top: 5rem;
+}
+.nav {
+  font-size: 2.5rem;
+  font-weight: bolder;
+  margin: 2rem 0 2rem 2rem;
+}
+.btn {
+ background: black;
+ color: white;
+ padding: 2rem;
+ border-radius: .5rem;
+}
+.primary__content--text {
+ text-align: center;
+}
